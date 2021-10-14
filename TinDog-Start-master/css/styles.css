@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;  
+}
+#title{
+    background-color: gray;
+}
+h1{
+    font-family: 'Semi-bold 600 italic';
+    size: 3rem;
+    line-height: 1.5;
+}

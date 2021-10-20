@@ -5,8 +5,33 @@
 #title{
     background-color: gray;
 }
+
+.container-fluid{
+    padding: 3% 15%;
+  }
+
 h1{
     font-family: 'Semi-bold 600 italic';
     size: 3rem;
     line-height: 1.5;
+}
+.item-image{
+  width: 60%;
+  transform: rotate(45deg);
+}
+.features-box{
+  padding: 12%;
+  text-align: center;
+}
+.box{
+  padding-bottom: 2%;
+  color: lightcoral;
+}
+.box :hover{
+  color: purple;
+}
+.dog{
+  text-align: center;
+  background-color: brown;
+  padding: 12rem;
 }

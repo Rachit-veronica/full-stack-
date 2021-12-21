@@ -1,0 +1,1 @@
+$("h1").text("nice work").css("color", "red");
